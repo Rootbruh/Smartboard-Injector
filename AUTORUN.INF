@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN=MAIN.EXE
+ICON=icon.ico
+LABEL=Injector
